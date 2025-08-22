@@ -61,5 +61,5 @@ Accurate weekly sales forecasting helps to:
 
 **Omar Hamdy**
 
-Email: [omarhamdy211@gmail.com](mailto:omarhamdy211@gmail.com)
+Email: [omarhamdy211@gmail.com](mailto:omarhamdy211@gmail.com) |
 [LinkedIn](https://linkedin.com/in/omar-hamdy-400961253) | [GitHub](https://github.com/OmarHamdy74)
