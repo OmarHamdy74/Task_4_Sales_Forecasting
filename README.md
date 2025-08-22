@@ -1,4 +1,3 @@
-```markdown
 # Weekly Sales Forecasting with Linear Regression & XGBoost
 
 ## 1 · Project Overview
@@ -64,7 +63,5 @@ Accurate weekly sales forecasting helps to:
 
 Email: [omarhamdy211@gmail.com](mailto:omarhamdy211@gmail.com)
 [LinkedIn](https://linkedin.com/in/omar-hamdy-400961253) | [GitHub](https://github.com/OmarHamdy74)
-
-```
 
 ```
