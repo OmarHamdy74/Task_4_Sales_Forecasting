@@ -17,7 +17,6 @@ The workflow includes:
 ├── train.csv             # training data
 ├── test.csv              # test data
 ├── requirements.txt      # Python dependencies
-├── requrirements.txt     # typo-safe duplicate
 └── README.md             # project documentation
 
 ````
